@@ -1,0 +1,16 @@
+[general]
+name=Terrain Surface Area
+qgisMinimumVersion=3.34
+description=Computes planar and terrain surface area of polygons using a DEM (Calcula a área plana e a área real do terreno usando um MDE).
+about=Processing tool to compute terrain surface area with global CRS handling (Ferramenta do Processing para calcular área de superfície com SRC global).
+version=1.0.0
+author=Luís Lopes
+email=geo.luislopes@gmail.com
+category=Raster
+icon=icon.png
+hasProcessingProvider=yes
+
+[help]
+homepage=
+tracker=
+repository=
