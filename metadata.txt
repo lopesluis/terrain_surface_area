@@ -9,9 +9,8 @@ email=geo.luislopes@gmail.com
 category=Raster
 icon=icon.png
 hasProcessingProvider=yes
-
-[help]
 homepage=https://github.com/lopesluis/terrain_surface_area
 tracker=https://github.com/lopesluis/terrain_surface_area/issues
 repository=https://github.com/lopesluis/terrain_surface_area
+
 
